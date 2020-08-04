@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/KabueMurage/PhotoViewer/blob/master/preview.png?raw=true" alt=""/>
+  <img src="https://github.com/KabueMurage/PhotoViewer/blob/master/Preview.png?raw=true" alt=""/>
 </p>
 
 
