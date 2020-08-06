@@ -1,8 +1,8 @@
-# -Windows-photo-Viewer
+# Enable Windows photo Viewer in Win 8/10
 
 
 <p align="center">
-  <img src="https://github.com/KabueMurage/PhotoViewer/blob/master/Preview.png?raw=true" alt=""/>
+  <img src="https://github.com/KabueMurage/PhotoViewer/blob/master/wpreview.gif?raw=true" alt=""/>
 </p>
 
 
